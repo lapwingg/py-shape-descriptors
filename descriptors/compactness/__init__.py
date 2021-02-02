@@ -1,1 +1,1 @@
-from .compactness import compactness
+from .compactness import CalculateCompactness
